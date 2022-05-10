@@ -8,7 +8,7 @@ import {
     Icon,
     CategoryName,
     Date,
-} from "./styled";
+} from "./style";
 
 interface Category {
     name: string;
